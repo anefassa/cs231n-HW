@@ -1,4 +1,4 @@
 assignment*/cs231n/datasets/cifar-10-batches-py
-assignment*/cs231n/datasets/coco_captioning/
-assignment*/cs231n/datasets/squeezenet.*
+assignment*/cs231n/datasets/coco_captioning
+assignment*/cs231n/datasets/squeezenet.ckpt*
 assignment*/cs231n/datasets/imagenet*
